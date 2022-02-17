@@ -7,6 +7,6 @@ The Tool Distribution Board is designed to simplify the connections of multiple 
 
 Product page is here: https://www.duet3d.com/Duet3ToolDistribution
 
-Documentation is here: https://duet3d.dozuki.com/Wiki/Tool_Distribution_Board
+Documentation is here: https://docs.duet3d.com/Duet3D_hardware/Duet_3_family/Duet_3_Tool_Distribution_Board
 
 As always please discuss this on the Duet3d forum: https://forum.duet3d.com/
